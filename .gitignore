@@ -1,0 +1,4 @@
+*.sh
+.idea
+/virtual_env
+.git
